@@ -12,7 +12,7 @@ on revenue, customer behavior, and sales trends.
 ##  Tools Used
  Tool | Purpose 
 
-Excel -- Data Cleaning + Dashboard 
+*Excel* -- Data Cleaning + Dashboard 
 Power BI -- Interactive Dashboard 
 MySQL -- Data Querying 
 Python -- Data Visualization 
@@ -44,7 +44,7 @@ Python -- Data Visualization
 - Avg Order Value: ₹622
 - B2C Sales: 99.1%
 
-## 📁 Repository Structure
+##  Repository Structure
 - Cleaned Excel Data
 - Power BI Dashboard
 - SQL Queries
