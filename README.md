@@ -13,9 +13,9 @@ on revenue, customer behavior, and sales trends.
  Tool | Purpose 
 
 *Excel* -- Data Cleaning + Dashboard 
-Power BI -- Interactive Dashboard 
-MySQL -- Data Querying 
-Python -- Data Visualization 
+*Power BI* -- Interactive Dashboard 
+*MySQL* -- Data Querying 
+*Python* -- Data Visualization 
 
 ##  Dataset
 - Source: Amazon Sales Report 2022 Kaggle.
